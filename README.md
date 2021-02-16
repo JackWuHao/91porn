@@ -5,3 +5,5 @@
 手机浏览器打开导航进入网址 www.asmrfun.com
 
 手机浏览器打开导航进入网址 www.asmrfun.com
+
+![asmrfun.jpg](asmrfun.jpg)
